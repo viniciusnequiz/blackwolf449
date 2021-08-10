@@ -1,4 +1,4 @@
-### Olá, tudo bem? Meu nome é Vinicius Oliveira e estou aprendendo
+### Olá, tudo bem? Meu nome é Vinicius Oliveira
 
 <div>
   <a href="https://github.com/blackwolf449">
